@@ -2,6 +2,8 @@
 
 Create a macOS Application from an executable (like a Go binary)
 
+![Output of appify is a mac application](preview2.png)
+
 * Create an Application from any executable
 * Set your own logo
 * Specify app metadata via flags
@@ -20,9 +22,7 @@ go get github.com/machinebox/appify
 appify -name "My Go Application" /path/to/bin
 ```
 
-It will create a macOS Application:
-
-![Output of appify is a mac application](preview2.png)
+It will create a macOS Application.
 
 ## What next?
 
