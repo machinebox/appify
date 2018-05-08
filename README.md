@@ -2,6 +2,10 @@
 
 Create a macOS Application from an executable (like a Go binary)
 
+* Create an Application from any executable
+* Set your own logo
+* Specify app metadata via flags
+
 ## Install
 
 To install `appify`:
