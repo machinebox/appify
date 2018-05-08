@@ -2,7 +2,7 @@
 
 Create a macOS Application from an executable (like a Go binary)
 
-![](appify-icon.png)
+![](appify-icon-small.png)
 
 ## Install
 
