@@ -18,7 +18,7 @@ appify -name "My Go Application" /path/to/bin
 
 It will create a macOS Application:
 
-![Output of appify is a mac application](preview.png)
+![Output of appify is a mac application](preview2.png)
 
 ## What next?
 
