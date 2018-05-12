@@ -19,7 +19,7 @@ go get github.com/machinebox/appify
 ## Usage
 
 ```
-appify -name "My Go Application" /path/to/bin
+appify -name "My Go Application" -icon ./icon.png /path/to/bin
 ```
 
 It will create a macOS Application.
